@@ -1,3 +1,6 @@
+<img width="1080" height="2400" alt="Screenshot_20260506_002317_com android chrome" src="https://github.com/user-attachments/assets/d8b029eb-c8c9-4c9b-b4c0-9fbbdb84d22b" />
+<img width="1080" height="2400" alt="Screenshot_20260506_084927_com android chrome" src="https://github.com/user-attachments/assets/2d653ce4-cfed-4179-ad6c-6badb434add3" />
+<img width="1080" height="2400" alt="Screenshot_20260506_090200_com android chrome" src="https://github.com/user-attachments/assets/22b54473-c228-4d8e-b01d-cdc262c35a0b" />
 Azure Free Tier Project Report
 Introduction
 This project involved setting up a cloud environment using Microsoft Azure. The goal was to understand cloud fundamentals such as resource management, identity access, and cost monitoring.
